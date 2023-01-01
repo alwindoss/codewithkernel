@@ -17,6 +17,8 @@ A single repo about all the sessions of Code with Kernel
 - Install [Go](https://go.dev/) for your Operating system
 - Ensure you follow instructions in the "[Instal Instructions](https://go.dev/doc/install)" section and setup the GOPATH and PATH environment variable correctly
 
+## Take it forward
+
 ### Become a professional
 
 - Learn to use Git as a beginner and progress to becoming a professional. Refer [Become a git guru](https://www.atlassian.com/git/tutorials)
